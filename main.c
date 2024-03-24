@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "IPAddress.h"
+#include "lib/IPAddress.h"
 
 int main(void)
 {
